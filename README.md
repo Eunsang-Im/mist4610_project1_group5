@@ -29,5 +29,10 @@
 
 ## Queries:
 
+1. Querry 1: shows the items that have sold the most in the cafe
+   Managers can use this to keep up with inventory management, menu adjustments, and promotional strategies to optimize sales and efficiany
+   ![image](https://github.com/user-attachments/assets/513ad464-820a-4de5-a8dd-a131ac4a8d55)
+   ![image](https://github.com/user-attachments/assets/d3c2a12d-7126-4751-815a-d06c16026408)
+
 
 ## Database Information:
